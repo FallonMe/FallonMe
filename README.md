@@ -11,7 +11,7 @@ I’m seeking postdoctoral and computational research opportunities in genomics,
 | Project | Computational focus | Read more |
 | --- | --- | --- |
 | Urban environments and spotted lanternfly invasion | Whole-genome workflows, population structure, demographic modeling, and landscape genomics | [Paper](https://doi.org/10.1098/rspb.2025.2292) |
-| Spotted lanternfly reference genome | Chromosome-level genome assembly and annotation resource; co-first author | [Paper](https://doi.org/10.1038/s41597-025-04854-8) |
+| Spotted lanternfly reference genome | Chromosome-level genome assembly and annotation resource; co-first author | [Code fork](https://github.com/FallonMe/SLF-Genome-Assembly) · [Paper](https://doi.org/10.1038/s41597-025-04854-8) |
 | Thermal responses in the transcriptome | Differential expression, coexpression networks, transcript usage, and alternative splicing | Ongoing research |
 | Quantitative thermal biology | Thermal phenotypes, respirometry, statistical modeling, and visualization | Ongoing research |
 
