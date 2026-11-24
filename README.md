@@ -15,7 +15,7 @@ I’m seeking postdoctoral and computational research opportunities in genomics,
 | Thermal responses in the transcriptome | Differential expression, coexpression networks, transcript usage, and alternative splicing | Ongoing research |
 | Quantitative thermal biology | Thermal phenotypes, respirometry, statistical modeling, and visualization | Ongoing research |
 
-The `SLF-Pop-Gen-MS` code release is in preparation.
+Study code, metadata, and reproducibility notes: [SLF-Pop-Gen-MS](https://github.com/FallonMe/SLF-Pop-Gen-MS).
 
 ## Methods & tools
 
@@ -23,6 +23,6 @@ R · Bash · Linux HPC · GATK · ANGSD · population genomics · demographic mo
 
 ## Connect
 
-[ORCID](https://orcid.org/0000-0002-9311-4298) · [Winchell Lab](https://kmwinchell.com/) · [Email](mailto:fm2371@nyu.edu)
+[Portfolio](https://fallonme.github.io/) · [ORCID](https://orcid.org/0000-0002-9311-4298) · [Winchell Lab](https://kmwinchell.com/) · [Email](mailto:fm2371@nyu.edu)
 
 I publish as **Fang Meng**.
