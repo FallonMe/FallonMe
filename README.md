@@ -57,6 +57,24 @@ I am a PhD candidate in Biology at New York University, where I study how urbani
 - My spotted-lanternfly research has been covered by [Scientific American](https://www.scientificamerican.com/article/spotted-lanternflies-love-of-cities-may-be-the-secret-to-their-invasion-success/), [Live Science](https://www.livescience.com/animals/insects/spotted-lanternflies-are-invading-the-us-they-may-have-gotten-their-evolutionary-superpowers-in-chinas-cities), *The New York Times*, Bloomberg News, ABC News, PNAS Journal Club, *New York Post*, and NYU News, among others.
 - I founded and lead NYU’s Eco-Evo Group, building an interdisciplinary community for research exchange, workshops, mentoring, and career development.
 
+<details>
+<summary>Selected media coverage</summary>
+
+- Scientific American — “Spotted Lanternflies’ Love of Cities May Be the Secret to Their Invasion Success” (2026)
+- Bloomberg News — “Why Spotted Lanternflies Spread So Fast” (2026)
+- The New York Times — “Cities May Be ‘Evolutionary Training Grounds’ for Spotted Lanternflies” (2026)
+- ABC News — “Why Invasive Spotted Lanternflies Are Thriving in the US” (2026)
+- PNAS Journal Club — “Lanternflies Have Low Genetic Diversity but the Right Genes Take Over Cities” (2026)
+- New York Post — “NYC Lanternfly Plague Set to Rebound After Dip” (2026)
+- Live Science — “Spotted Lanternflies Invading the US May Be More Adaptable Than Scientists Thought” (2026)
+- NYU News — “How Cities Primed Spotted Lanternflies to Thrive in the US” (2026)
+- NYU Interview — “Why Spotted Lanternflies May Be Here to Stay” (2025)
+- SLELO PRISM Winter Newsletter — “Urbanization Drives SLF Phenology Shifts” (2025)
+- NYU News — “Spotted Lanternflies in the US Are Living Longer—and Cities May Be Helping Them Spread” (2024)
+- WNYC/Gothamist — “Lanternfly Invasion: NYC Bugs Are Living Their Best (and Longest) Lives” (2024)
+
+</details>
+
 ## Selected awards
 
 FLEUR STRAND Graduate Fellowship (2026) · NYU Climate Doctoral Fellowship (2026) · NYU Urban Doctoral Fellowship (2026) · GSAS Horizon Fellowship (2026) · JEB Travelling Fellowship, Company of Biologists (2025) · Shakrani Graduate Fellowship (2025) · Global Research Institute Doctoral Fellowship (2024) · Eugene Bell Thesis Proposal with Distinction (2024) · Second Place, Best Student Presentation, Society for Integrative and Comparative Biology (2024).
